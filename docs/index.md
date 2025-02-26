@@ -12,7 +12,7 @@ If you want to add your own custom Pokémon from scratch, follow this tutorial:
 
 Want to give existing Pokémon new Mega Evolutions? Follow this guide:
 
-➡ [Fake Mega Evolutions Guide](#) _(Soon)_
+➡ [Fake Mega Evolutions Guide](https://yajatkaul.github.io/MegaShowdownMDK/monsdata)
 
 ## 3. Integrating with Mega Showdown (Neoforge & Fabric)
 
