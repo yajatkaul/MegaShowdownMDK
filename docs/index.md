@@ -6,19 +6,19 @@ Welcome to the **Cobblemon: Mega Showdown** modding guide! Choose an option belo
 
 If you want to add your own custom Pokémon from scratch, follow this tutorial:
 
-➡ [Creating a Custom Pokémon](https://wiki.cobblemon.com/index.php/Tutorials/Creating_A_Custom_Pokemon)
+➡ <a href="https://wiki.cobblemon.com/index.php/Tutorials/Creating_A_Custom_Pokemon" target="_blank" rel="noopener noreferrer">Make Your Own Fakemon</a>
 
 ## 2. Creating Fake Megas for Existing Pokémon
 
 Want to give existing Pokémon new Mega Evolutions? Follow this guide:
 
-➡ [Fake Mega Evolutions Guide](#) _(Link to your custom page)_
+➡ [Fake Mega Evolutions Guide](#) _(Soon)_
 
 ## 3. Integrating with Mega Showdown (Neoforge & Fabric)
 
 For modders looking to integrate Mega Evolutions into **Mega Showdown**, follow the Neoforge & Fabric MDK documentation:
 
-➡ [Mega Showdown MDK Guide](#) _(Link to the second page)_
+➡ [Mega Showdown MDK Guide](https://yajatkaul.github.io/MegaShowdownMDK/integration)
 
 ---
 
