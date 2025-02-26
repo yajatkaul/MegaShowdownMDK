@@ -56,17 +56,6 @@ This file contains localized names and descriptions for the Mega Pokémon. Updat
 
 ---
 
-## 7. Mega Evolution Particle Effects
-
-**File Paths:**
-
-- `assets/cobblemon/particles/snowstorm.json`
-- `assets/cobblemon/textures/particle/mega_icon.png`
-
-These files control particle effects for Mega Evolution. Customize them if you want unique visual effects for your Mega Pokémon.
-
----
-
 ## How to Use This Reference
 
 To add Mega Evolutions for another Pokémon, follow these steps:
