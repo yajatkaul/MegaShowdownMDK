@@ -4,6 +4,27 @@ This guide provides instructions for modders who wish to add their own custom Me
 
 ---
 
+## Step 1: Clone the Repository
+
+Before you start, clone the project repository from GitHub to your local machine.
+
+1. Open your terminal or command prompt.
+2. Run the following command:
+
+   ```sh
+   git clone https://github.com/yajatkaul/MegaShowdownMDK.git
+   ```
+
+3. Navigate into the cloned directory:
+
+   ```sh
+   cd MegaShowdownMDK
+   ```
+
+Now you are ready to begin modifying the mod files.
+
+---
+
 ## Neoforge
 
 ### 1. Assigning a Mega Stone to a Pokémon
