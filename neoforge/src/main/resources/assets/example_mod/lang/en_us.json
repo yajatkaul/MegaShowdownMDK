@@ -1,0 +1,5 @@
+{
+  "creativeTab.example_mod.example_tab": "Example Tab",
+  "item.example_mod.custom_stone": "Custom Stone",
+  "tooltip.example_mod.custom_stone.tooltip": "This stone is used to evolve into whatever"
+}
