@@ -63,7 +63,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.0")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.10.0")
 
-    modImplementation("maven.modrinth:cobblemon-mega-showdown:3.8.3-release-fabric")
+    modImplementation("maven.modrinth:cobblemon-mega-showdown:4.4.2-release-fabric")
 
     modImplementation("maven.modrinth:supermartijn642s-config-lib:1.1.8-fabric-mc1.21")
 
