@@ -43,7 +43,7 @@ dependencies {
     neoForge("net.neoforged:neoforge:21.1.66")
 
     modImplementation("com.cobblemon:neoforge:1.6.0+1.21.1-SNAPSHOT")
-    modImplementation("maven.modrinth:cobblemon-mega-showdown:6.2.6-P-release-neoforge")
+    modImplementation("maven.modrinth:cobblemon-mega-showdown:8.2.0-release-neoforge")
     //Needed for cobblemon
     implementation("thedarkcolour:kotlinforforge-neoforge:5.3.0") {
         exclude("net.neoforged.fancymodloader", "loader")
