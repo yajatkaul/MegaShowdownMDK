@@ -5,7 +5,7 @@ import net.neoforged.fml.common.Mod;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.neoforge.event.RegisterCommandsEvent;
 
-@Mod("cobblemon_multiplatform_mdk")
+@Mod("examplemod")
 public class ATMXMSD {
 
     public ATMXMSD() {
