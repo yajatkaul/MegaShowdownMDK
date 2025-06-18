@@ -4,20 +4,16 @@
   "version": "${version}",
   "name": "Example Mod",
   "description": "A MDK useful for Fabric Development",
-  "authors": [
-    "Me!"
-  ],
+  "authors": ["Me!"],
   "license": "MIT License",
   "icon": "assets/example/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "com.example.examplemod.ExampleMod"
-    ]
+    "main": ["com.example.examplemod.ExampleMod"]
   },
   "depends": {
     "minecraft": "1.21.1",
     "cobblemon": ">=1.6.0",
-    "mega_showdown": ">=3.8.3-release-fabric"
+    "mega_showdown": ">=9.7.6-release-fabric"
   }
 }
