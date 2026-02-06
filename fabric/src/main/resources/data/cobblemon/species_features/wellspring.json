@@ -1,6 +1,0 @@
-{
-    "keys": ["wellspring"],
-    "type": "flag",
-    "isAspect": true,
-    "default": false
-  }

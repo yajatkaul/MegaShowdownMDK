@@ -1,19 +1,35 @@
 {
   "schemaVersion": 1,
-  "id": "example_mod",
+  "id": "examplefabric",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "A MDK useful for Fabric Development",
-  "authors": ["Me!"],
-  "license": "MIT License",
-  "icon": "assets/example/icon.png",
+  "name": "ExampleFabric",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "unlicense",
+  "icon": "assets/examplefabric/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": ["com.example.examplemod.ExampleMod"]
+    "client": [
+      "com.github.yajatkaul.examplefabric.client.ExampleFabricClient"
+    ],
+    "main": [
+      "com.github.yajatkaul.examplefabric.ExampleFabric"
+    ]
   },
+  "mixins": [
+    "examplefabric.mixins.json",
+    {
+      "config": "examplefabric.client.mixins.json",
+      "environment": "client"
+    }
+  ],
   "depends": {
-    "minecraft": "1.21.1",
-    "cobblemon": ">=1.6.0",
-    "mega_showdown": ">=9.7.6-release-fabric"
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "cobblemon": ">=1.7",
+    "mega_showdown": ">=1.6.9+1.7+3+1.21.1",
+    "accessories": ">=1.1.0-beta.52+1.21.1"
   }
 }

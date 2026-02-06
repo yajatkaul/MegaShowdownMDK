@@ -1,6 +1,0 @@
-{
-    "keys": ["hearthflame"],
-    "type": "flag",
-    "isAspect": true,
-    "default": false
-  }

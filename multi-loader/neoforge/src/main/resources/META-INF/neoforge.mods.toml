@@ -1,0 +1,59 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "Unlicense"
+
+[[mods]]
+modId = "examplemod"
+version = "${version}"
+displayName = "ExampleMod"
+authors = ""
+description = '''
+
+'''
+#logoFile = ""
+
+[[dependencies.examplemod]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.examplemod]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.examplemod]]
+modId = "architectury"
+type = "required"
+versionRange = "[13.0.8,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.examplemod]]
+modId = "cobblemon"
+type = "required"
+versionRange = "[1.7.0, )"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.examplemod]]
+modId = "mega_showdown"
+type = "required"
+versionRange = "[1.6.9+1.7+3.21.1,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.examplemod]]
+modId = "accessories"
+type = "required"
+versionRange = "[1.1.0-beta.52+1.21.1, )"
+ordering = "AFTER"
+side = "BOTH"
+
+[[mixins]]
+config = "examplemod.mixins.json"

@@ -1,8 +1,4 @@
-/neoforge/gradle
-/fabric/gradle
-
-/neoforge/run
-/fabric/run
-
-/neoforge/.idea
-/fabric/.idea
+.gradle
+.idea
+build
+run

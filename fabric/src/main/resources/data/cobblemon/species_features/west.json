@@ -1,6 +1,0 @@
-{
-  "keys": ["west"],
-  "type": "flag",
-  "isAspect": true,
-  "default": false
-}
